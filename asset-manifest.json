@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hw-02-phonebook/static/css/main.988ed987.css",
+    "main.js": "/react-hw-02-phonebook/static/js/main.d65185a7.js",
+    "index.html": "/react-hw-02-phonebook/index.html",
+    "main.988ed987.css.map": "/react-hw-02-phonebook/static/css/main.988ed987.css.map",
+    "main.d65185a7.js.map": "/react-hw-02-phonebook/static/js/main.d65185a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988ed987.css",
+    "static/js/main.d65185a7.js"
+  ]
+}
